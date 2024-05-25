@@ -428,7 +428,7 @@ alias personal='cp -Rf /personal/* ~'
 [[ -f ~/.bashrc-personal ]] && . ~/.bashrc-personal
 
 # reporting tools - install when not installed
-#fastfetch
+fastfetch
 #neofetch
 #screenfetch
 #alsi
@@ -444,3 +444,7 @@ alias personal='cp -Rf /personal/* ~'
 #cpufetch
 #colorscript random
 #hyfetch
+
+#Stuff Iv'e added
+eval "$(starship init bash)"
+#End of stuff I added
