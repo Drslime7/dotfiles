@@ -14,5 +14,8 @@ Prompt used in [fish](https://fishshell.com/) and [bash](https://www.gnu.org/sof
         **Bash** add `eval "$(starship init bash)"` to `~/.bashrc` <br/>
         **Fish** add `starship init fish | source` to `~/.config/fish/config.fish`
 3. Chose a [NerdFont](https://www.nerdfonts.com/font-downloads) of your liking download and extract in downloads. 
-4. Navigate to or create directory in `/home/hunter/.local/share/fonts/nerdfonts` and paste the extracted folder in there. 
+4. Navigate to or create directory in `/home/hunter/.local/share/fonts/nerdfonts` and paste the extracted folder in there. <br/>
 **Done**
+
+## Notes
+1. Application descriptions might be nice in the `pacdef` files. 
