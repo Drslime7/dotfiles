@@ -1,4 +1,5 @@
 [arch]
+# Now redundent as on archlinux
 arch-install-scripts
 archlinux-tweak-tool-git
 arcolinux-arc-kde
