@@ -12,6 +12,7 @@ gst-plugin-pipewire
 libpulse
 linux
 linux-firmware
+os-prober
 nano
 networkmanager
 pacdef-bin
