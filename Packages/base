@@ -1,0 +1,37 @@
+[arch]
+#System base packages
+amd-ucode
+base
+base-devel
+btrfs-progs
+efibootmgr
+flatpak
+git
+grub
+gst-plugin-pipewire
+libpulse
+linux
+linux-firmware
+nano
+networkmanager
+pacdef-bin
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+vscodium-bin
+wireplumber
+
+#My Base PAckages
+btop
+chezmoi
+fastfetch
+fish
+git-credential-manager
+github-cli
+gparted
+paru
+paru-debug
+starship
+
+[flatpak]
