@@ -32,3 +32,5 @@ paru
 paru-debug
 starship
 
+[flatpak]
+org.freedesktop.Piper
