@@ -1,8 +1,11 @@
 [arch]
 arch-gaming-meta
+dxvk-bin
+proton-ge-custom
 
 [flatpak]
 net.lutris.Lutris
 com.usebottles.bottles
 com.discordapp.Discord
-org.prismlauncher.PrismLauncher
+org.prismlauncher.PrismLauncher cgh     
+com.github.Matoking.protontricks
