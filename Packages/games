@@ -1,5 +1,7 @@
+[arch]
+arch-gaming-meta
+
 [flatpak]
-com.valvesoftware.Steam
 net.lutris.Lutris
 com.usebottles.bottles
 com.discordapp.Discord
