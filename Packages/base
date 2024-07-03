@@ -20,10 +20,11 @@ pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+system-config-printer
 vscodium-bin
 wireplumber
 
-#My Base PAckages
+#My Base PAckages       
 btop
 chezmoi
 fastfetch
