@@ -1,7 +1,7 @@
 [arch]
 arch-gaming-meta
 dxvk-bin
-proton-ge-custom
+proton-ge-custom-bin
 
 [flatpak]
 net.lutris.Lutris
