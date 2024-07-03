@@ -32,6 +32,7 @@ gparted
 paru
 paru-debug
 starship
+timeshift
 
 [flatpak]
 org.freedesktop.Piper
