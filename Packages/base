@@ -32,9 +32,11 @@ fastfetch
 fish
 flameshot
 gparted
+grub-btrfs
 paru
 starship
 timeshift
+
 
 [flatpak]
 org.freedesktop.Piper
