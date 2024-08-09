@@ -12,6 +12,7 @@ gst-plugin-pipewire
 libpulse
 linux
 linux-firmware
+obs-studio
 os-prober
 nano
 networkmanager
