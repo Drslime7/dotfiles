@@ -12,8 +12,6 @@ gst-plugin-pipewire
 libpulse
 linux
 linux-firmware
-obs-studio
-os-prober
 nano
 networkmanager
 pacdef-bin
@@ -22,7 +20,6 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 system-config-printer
-vscodium-bin
 wireplumber
 
 #My Base PAckages       
@@ -30,12 +27,13 @@ btop
 chezmoi
 fastfetch
 fish
-flameshot
-gparted
-grub-btrfs
-paru
+grub-btrfs #Display timeshift snapshots inside of grub
+inotify-tools #Optional dependencie for grub-btrfs
+os-prober
+paru ##AUR PACKAGE##
 starship
 timeshift
+timeshift-autosnap #Automaticaly makes a snapshot after pacman updates. ##AUR PACKAGE##
 
 
 [flatpak]

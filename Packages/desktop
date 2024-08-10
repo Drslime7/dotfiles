@@ -1,7 +1,7 @@
 [arch]
-plasma-meta
-kdeconnect
 kde-system-meta
 kde-utilities-meta
+kdeconnect
 kvantum-qt5
+plasma-meta
 warpgui-bin

@@ -5,10 +5,10 @@ dxvk-bin
 proton-ge-custom-bin
 
 [flatpak]
-net.lutris.Lutris
-com.usebottles.bottles
 com.discordapp.Discord
-org.prismlauncher.PrismLauncher
 com.github.Matoking.protontricks
 com.obsproject.Studio
+com.usebottles.bottles
 io.github.Foldex.AdwSteamGtk
+net.lutris.Lutris
+org.prismlauncher.PrismLauncher

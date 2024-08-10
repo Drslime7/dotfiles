@@ -1,6 +1,10 @@
 [arch]
 firefox
+flameshot
+gparted
 mpv
+obs-studio
+vscodium-bin
 
 [flatpak]
 com.github.tchx84.Flatseal 
